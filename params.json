@@ -1,0 +1,6 @@
+{
+  "name": "RAL Colorpicker",
+  "tagline": "WordPress Plugin for inserting a select form element for choosing RAL Classic colors",
+  "body": "### About\r\nThis WordPress plugin is based on https://en.wikipedia.org/wiki/List_of_RAL_colors\r\n\r\n### Installation\r\n#### From your WordPress dashboard\r\n\r\n* Visit 'Plugins > Add New'\r\n* Search for and download 'ral-colorpicker'\r\n* Activate RAL Colorpicker from your Plugins page.\r\n\r\n#### From other sources\r\n* Download RAL Colorpicker.\r\n* Upload the 'ral-colorpicker' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)\r\n* Activate RAL Colorpicker from your Plugins page.\r\n\r\n### Contribution\r\nMake a pull request!\r\n\r\n### Support or Contact\r\nCreate an issue here at Github or at WordPress.org\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
